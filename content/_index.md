@@ -26,4 +26,4 @@ Ven. Sudassana Thero kindly gave permission to post his Dhamma talks here and I 
 
 For YouTube videos visit our [YouTube Channel](http://www.youtube.com/user/mankadawalasudassana/videos)
 
-The archievd old website can be accessed [here](https://web.archive.org/web/20240528142020/https://sudassana.org/)
+The archived old website can be accessed [here](https://web.archive.org/web/20240528142020/https://sudassana.org/)
