@@ -1,0 +1,28 @@
+baseURL: https://sudassana.pathnirvana.org/
+languageCode: en-us
+title: Mankadawala Sudassana Thero
+theme: PaperMod
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  description: Sinhala Dhamma talks showing the way to Nibbana, labunoruwa aranya, dhammahadaya
+  DateFormat: January 2, 2006
+
+menu:
+  main:
+    - identifier: tripitaka
+      name: Tripitaka
+      url: /sutta-text
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact-us
+      weight: 20
+    - identifier: youtube
+      name: YouTube
+      url: http://www.youtube.com/user/mankadawalasudassana/videos
+      weight: 30
+      
